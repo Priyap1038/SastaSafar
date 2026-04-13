@@ -1,79 +1,102 @@
-# quixotic-snail-9802
+# 🌴 Summer Trip Planner
 
- This website is designed to help you plan and organize your summer vacations. Whether you're looking for
+![HTML](https://img.shields.io/badge/Frontend-HTML-orange)
+![CSS](https://img.shields.io/badge/Style-CSS-blue)
+![JavaScript](https://img.shields.io/badge/Logic-JavaScript-yellow)
+![Node.js](https://img.shields.io/badge/Backend-Node.js-green)
+![Render](https://img.shields.io/badge/API-Render-purple)
 
- inspiration, or information on popular destinations, we've got you covered.
+A web application to **plan, explore, and book summer vacations**.  
+Discover destinations, manage bookings, and enjoy a smooth travel planning experience.
 
+---
 
-<!-- ************************************** -->
+## 🔗 Live Demo
 
-Usage -->
+👉 Add your deployed link here  
+Example: https://your-project-link.com
 
+---
 
-To use the website, follow these steps:
+## 📸 Screenshots
 
-Navigate to the homepage.
-
-Provide your credintials and login to the website.
-
-Use the search form to enter your desired location, check-in and check-out dates, and number of guests.
-
-Browse the list of available Summer trip destination and select one to book.
-
-Fill out the booking form with your details and payment information.
-
-Submit the booking form to confirm your reservation. 
+>  project screenshots here
 
 
-<!-- ************************************** -->
+---
+
+## ✨ Features
+
+- 🔍 Smart search for destinations  
+- 📅 Filter by dates and guests  
+- 📝 Easy booking system  
+- 👤 User authentication  
+- 💳 Cash on Delivery payment  
+- 🛠 Admin panel access  
+
+---
+
+## 🔐 Admin Credentials
 
 
+Username: admin
+Password: admin
 
-Features-->
+---
 
+## 🧑‍💻 How It Works
 
-The Summer trip website includes the following features:
+1. Visit the homepage  
+2. Login / Register  
+3. Search for destinations  
+4. Choose your trip  
+5. Fill booking details  
+6. Confirm reservation  
 
-Search functionality: Users can search for Summer trip destination by location, check-in and check-out dates, and number of guests.
+---
 
-Booking form: Users can fill out a booking form with their details and payment information to confirm their reservation.
+## 🏗 Tech Stack
 
-User accounts: Users can create an account to save their booking information and preferences.
+| Layer       | Technology              |
+|------------|------------------------|
+| Frontend   | HTML, CSS, JavaScript  |
+| Backend    | Node.js                |
+| API        | Render.com             |
 
-Payment options: The website supports cash on delievery payment options.
+---
 
-
-<!-- ************************************** -->
-
-
-
-Technologies Used-->
-
-
-The hotel booking website was built using the following technologies:
-
-HTML, CSS, and JavaScript for the frontend.
-
-Node.js for the backend.
-
-Render.com to create mock API.
+## 📁 Project Structure
 
 
-<!-- ************************************** -->
+project-root/
+│── frontend/
+│── backend/
+│── api/
+│── screenshots/
+│── README.md
 
 
+---
 
-Contributors-->
+## 👥 Contributors
 
+- Sabir Alam (fw25_201)  
+- Md Adil (fw26_268)  
+- Priya Patole (fw26_030)  
+- Achal Gaddamwar (fw26_039)  
+- Neha Singh (fw25_310)  
 
-This project is developed by the following contributors:
+---
 
-Sabir Alam - fw25_201
+## 🚀 Future Enhancements
 
-Md Adil - fw26_268
+- 💳 Online payment integration  
+- ⭐ Reviews & ratings system  
+- 📍 Map-based destination view  
+- 📱 Improved mobile responsiveness  
 
-Priya Patole - fw26_030
+---
 
-Achal Gaddamwar - fw26_039
+## 📝 License
 
-Neha Singh - fw25_310
+This project is for educational purposes.
